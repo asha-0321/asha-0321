@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Kasa Asha Devi
 
-<!--
-**asha-0321/asha-0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech graduate in Artificial Intelligence and Machine Learning (2026).
 
-Here are some ideas to get you started:
+I am currently focusing on building strong fundamentals in:
+- Python
+- Data skills
+- Machine Learning basics
+- Data Engineering concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Final Year Project: Collaborative Filtering based Book Recommendation System
+- Actively learning and improving my technical skills step by step
+- Looking for entry-level opportunities / internships in Data or AI-related roles
+
+### Connect with me
+- LinkedIn: [linkedin.com/in/kasa-asha-devi-a760a2314](https://www.linkedin.com/in/kasa-asha-devi-a760a2314/)
